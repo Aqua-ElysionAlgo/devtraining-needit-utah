@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent/>
+        <macroponent_config>{
+    "5865e308432021105571609dc7b8f23b": {
+        "listType": "default",
+        "layouts": "list",
+        "displayedLayout": "list",
+        "table": "task",
+        "listTitle": "",
+        "fixedFilter": "",
+        "filter": "",
+        "groupBy": "",
+        "view": "",
+        "nestBy": "",
+        "childrenRowLimit": 10,
+        "enableBadgeCount": true,
+        "columns": "",
+        "columnLimit": 0,
+        "rowLimit": null,
+        "currentPage": 0,
+        "enableColumnSorting": true,
+        "enableColumnFiltering": true,
+        "enableColumnGrouping": true,
+        "columnFilteringPopoverDisplay": "",
+        "enableCellFiltering": true,
+        "enableDeclarativeActions": true,
+        "actionConfigId": "",
+        "allRecordsSelected": false,
+        "selectedRecords": [],
+        "exceptedRecords": [],
+        "enableQuickEdit": true,
+        "includeLegacyListLayout": false,
+        "enableQuickFormNavigation": true,
+        "enableCardClickOpen": false,
+        "enableOnlySingleSelection": false,
+        "enforceViewRulesForQuickForm": true,
+        "onlyEnableSelectionWhenRequiredByActions": true,
+        "enableReferenceLinks": true,
+        "liveUpdates": "off",
+        "enableLiveList": false,
+        "showListCreation": true,
+        "enableInfiniteScroll": false,
+        "recordCountLimit": null,
+        "fetchHighlightedValues": false,
+        "enableDotWalk": true,
+        "transformScriptSysId": null,
+        "cardFieldMapping": {
+            "tagline": "state",
+            "metadata": "priority",
+            "heading": "number",
+            "bodyText": "short_description",
+            "supplementaryFields": "assigned_to,sys_class_name"
+        },
+        "transformScriptArgs": {},
+        "listMenuConfigurationId": null,
+        "listId": null,
+        "showListOpenedByLinkSection": null,
+        "parentTable": null,
+        "parentRecordSysId": null,
+        "isParentNewRecord": null,
+        "isParentReadOnly": null,
+        "relatedListName": null,
+        "tinyId": "",
+        "columnPreferenceKey": "",
+        "nowUxfPersistedState": {},
+        "pageSysId": "3a8055b283b67a500e72b1b6feaad30b",
+        "listControllerId": "VdtF4347Y9AkuL9q8IiIV4p6qp"
+    },
+    "table": "x_58872_needit_needit",
+    "listTitle": null,
+    "query": null,
+    "listView": null
+}</macroponent_config>
+        <screen display_value="NeedIt User home">370b020b833efa500e72b1b6feaad39a</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-06 03:43:09</sys_created_on>
+        <sys_id>770b020b833efa500e72b1b6feaad3a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_770b020b833efa500e72b1b6feaad3a2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-06 03:43:09</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
