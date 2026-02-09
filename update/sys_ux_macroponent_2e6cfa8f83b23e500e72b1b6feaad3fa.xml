@@ -763,7 +763,10 @@
                 "type": "JSON_LITERAL",
                 "value": ""
             },
-            "columns": null,
+            "columns": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
             "currentPage": {
                 "type": "JSON_LITERAL",
                 "value": 0
@@ -828,9 +831,18 @@
                 "type": "JSON_LITERAL",
                 "value": true
             },
-            "filter": null,
-            "fixedFilter": null,
-            "groupBy": null,
+            "filter": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "fixedFilter": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
+            "groupBy": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
             "highlightedValueConfigId": {
                 "binding": {
                     "address": [
@@ -842,7 +854,7 @@
             },
             "listControllerId": {
                 "type": "JSON_LITERAL",
-                "value": "z43O8sffVBkbd93kHD7g3i1Ge"
+                "value": "COuNKvplBEUL9ukP2VljhoJm"
             },
             "listId": {
                 "type": "JSON_LITERAL",
@@ -856,7 +868,10 @@
                 "type": "JSON_LITERAL",
                 "value": "off"
             },
-            "nestBy": null,
+            "nestBy": {
+                "type": "JSON_LITERAL",
+                "value": ""
+            },
             "onlyEnableSelectionWhenRequiredByActions": {
                 "type": "JSON_LITERAL",
                 "value": true
@@ -875,13 +890,8 @@
                 "value": null
             },
             "table": {
-                "binding": {
-                    "address": [
-                        "table"
-                    ],
-                    "category": "props"
-                },
-                "type": "CONTEXT_BINDING"
+                "type": "JSON_LITERAL",
+                "value": "x_58872_needit_needit"
             },
             "view": {
                 "type": "JSON_LITERAL",
@@ -1006,16 +1016,16 @@
         <style_config>{}</style_config>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2026-02-05 07:47:25</sys_created_on>
-        <sys_id>9469753683fa7a500e72b1b6feaad3c2</sys_id>
+        <sys_created_on>2026-02-06 07:18:47</sys_created_on>
+        <sys_id>2e6cfa8f83b23e500e72b1b6feaad3fa</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Simple List</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ux_macroponent_9469753683fa7a500e72b1b6feaad3c2</sys_update_name>
+        <sys_update_name>sys_ux_macroponent_2e6cfa8f83b23e500e72b1b6feaad3fa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-05 07:53:39</sys_updated_on>
+        <sys_updated_on>2026-02-06 07:23:50</sys_updated_on>
     </sys_ux_macroponent>
-    <sys_translated_text action="delete_multiple" query="documentkey=9469753683fa7a500e72b1b6feaad3c2"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=2e6cfa8f83b23e500e72b1b6feaad3fa"/>
 </record_update>
