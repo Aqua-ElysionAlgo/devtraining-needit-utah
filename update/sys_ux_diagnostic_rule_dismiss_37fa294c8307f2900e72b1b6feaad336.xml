@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_diagnostic_rule_dismiss">
+    <sys_ux_diagnostic_rule_dismiss action="INSERT_OR_UPDATE">
+        <dismiss_targets>{
+  "55b74c5270408210f877603d6fa53cf8": [
+    {
+      "needits_awaiting_approval_button": {
+        "dismissTimestamp": "2026-02-09T03:56:52.718Z",
+        "dismissedBy": "6816f79cc0a8016401c5a33be04be441"
+      }
+    },
+    {
+      "active_needits_button": {
+        "dismissTimestamp": "2026-02-09T04:28:41.650Z",
+        "dismissedBy": "6816f79cc0a8016401c5a33be04be441"
+      }
+    },
+    {
+      "closed_needits_button": {
+        "dismissTimestamp": "2026-02-09T04:39:57.214Z",
+        "dismissedBy": "6816f79cc0a8016401c5a33be04be441"
+      }
+    }
+  ]
+}</dismiss_targets>
+        <sys_class_name>sys_ux_diagnostic_rule_dismiss</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-09 03:56:59</sys_created_on>
+        <sys_id>37fa294c8307f2900e72b1b6feaad336</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_diagnostic_rule_dismiss_37fa294c8307f2900e72b1b6feaad336</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-09 04:40:04</sys_updated_on>
+        <table_name>sys_ux_macroponent</table_name>
+        <target_id>3a8055b283b67a500e72b1b6feaad30b</target_id>
+    </sys_ux_diagnostic_rule_dismiss>
+</record_update>
