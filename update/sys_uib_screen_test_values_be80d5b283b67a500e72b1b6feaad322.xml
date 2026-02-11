@@ -3,87 +3,97 @@
         <macroponent/>
         <macroponent_config>{
     "5865e308432021105571609dc7b8f23b": {
-        "listType": "default",
-        "layouts": "list",
-        "displayedLayout": "list",
-        "table": "task",
-        "listTitle": "",
-        "fixedFilter": "",
-        "filter": "",
-        "groupBy": "",
-        "view": "",
-        "nestBy": "",
-        "childrenRowLimit": 10,
-        "enableBadgeCount": true,
+        "allRecordsSelected": false,
+        "columnFilteringPopoverDisplay": "",
+        "columnLimit": 10,
+        "columnPreferenceKey": "",
         "columns": "",
-        "columnLimit": 0,
-        "rowLimit": null,
         "currentPage": 0,
-        "enableColumnSorting": true,
+        "enableCardClickOpen": false,
+        "enableCellFiltering": true,
         "enableColumnFiltering": true,
         "enableColumnGrouping": true,
-        "columnFilteringPopoverDisplay": "",
-        "enableCellFiltering": true,
+        "enableColumnSorting": true,
         "enableDeclarativeActions": true,
-        "actionConfigId": "",
-        "allRecordsSelected": false,
-        "selectedRecords": [],
-        "exceptedRecords": [],
-        "enableQuickEdit": true,
-        "includeLegacyListLayout": false,
-        "enableQuickFormNavigation": true,
-        "enableCardClickOpen": false,
-        "enableOnlySingleSelection": false,
-        "enforceViewRulesForQuickForm": true,
-        "onlyEnableSelectionWhenRequiredByActions": true,
-        "enableReferenceLinks": true,
-        "liveUpdates": "off",
-        "enableLiveList": false,
-        "showListCreation": true,
-        "enableInfiniteScroll": false,
-        "recordCountLimit": null,
-        "fetchHighlightedValues": false,
         "enableDotWalk": true,
-        "transformScriptSysId": null,
-        "cardFieldMapping": {
-            "tagline": "state",
-            "metadata": "priority",
-            "heading": "number",
-            "bodyText": "short_description",
-            "supplementaryFields": "assigned_to,sys_class_name"
-        },
-        "transformScriptArgs": {},
-        "listMenuConfigurationId": null,
+        "enableInfiniteScroll": false,
+        "enableLiveList": false,
+        "enableOnlySingleSelection": false,
+        "enableQuickEdit": false,
+        "enableQuickFormNavigation": false,
+        "enableReferenceLinks": true,
+        "enforceViewRulesForQuickForm": false,
+        "fetchHighlightedValues": true,
+        "filter": "",
+        "fixedFilter": "",
+        "groupBy": "",
+        "listControllerId": "A6m3847VhC0v4398MNfNWvyDNy",
         "listId": null,
-        "showListOpenedByLinkSection": null,
-        "parentTable": null,
-        "parentRecordSysId": null,
-        "isParentNewRecord": null,
-        "isParentReadOnly": null,
-        "relatedListName": null,
-        "tinyId": "",
-        "columnPreferenceKey": "",
-        "nowUxfPersistedState": {},
+        "listType": "simple",
+        "liveUpdates": "active=true",
+        "nestBy": "",
+        "onlyEnableSelectionWhenRequiredByActions": true,
         "pageSysId": "3a8055b283b67a500e72b1b6feaad30b",
-        "listControllerId": "VdtF4347Y9AkuL9q8IiIV4p6qp"
+        "rowLimit": 10,
+        "showListOpenedByLinkSection": null,
+        "table": "x_58872_needit_needit",
+        "view": ""
     },
     "table": "x_58872_needit_needit",
     "listTitle": null,
-    "query": null,
-    "listView": null
+    "query": "",
+    "listView": null,
+    "07811f1077a31110960ced43ba5a9949": {
+        "ciSysid": "539747cac0a801640163e60735fbbf6e",
+        "configIdentifierId": null,
+        "controlPanelButtonItems": null,
+        "editMode": null,
+        "levels": 3,
+        "nodemapButtonItems": null,
+        "perfLogging": false,
+        "presetId": -1,
+        "selectedItemId": null
+    },
+    "7cb6eb2e77321510960ced43ba5a9904": {
+        "ciSysid": "",
+        "configIdentifierId": null,
+        "editMode": null,
+        "levels": "",
+        "perfLogging": null,
+        "reloadTimestamp": null,
+        "serviceMappingInput": null
+    },
+    "9585a6bf5b73011046f91c8fb681c7d6": {
+        "disableCollapseAll": false,
+        "edges": "[{\"id\":\"edge:root_1:inner_group:ckqjews4h00003h6umhpk9vv5\",\"sourceId\":\"root_1\",\"targetId\":\"inner_group\",\"label\":\"root_1 -&gt; inner_group #1\"},{\"id\":\"edge:node_0:node_2:ckqjews4h00013h6u6l8frc69\",\"sourceId\":\"node_0\",\"targetId\":\"node_2\",\"label\":\"node_0 -&gt; node_2\"},{\"id\":\"edge:node_0:node_7:ckqjews4h00023h6u1mt34z38\",\"sourceId\":\"node_0\",\"targetId\":\"node_7\",\"label\":\"node_0 -&gt; node_7\"},{\"id\":\"edge:root_1:inner_group:ckqjews4h00033h6u1sjwyer4\",\"sourceId\":\"root_1\",\"targetId\":\"inner_group\",\"label\":\"root_1 -&gt; inner_group #2\"},{\"id\":\"edge:root_1:node_1:ckqjews4h00043h6uyjch4tgr\",\"sourceId\":\"root_1\",\"targetId\":\"node_1\",\"label\":\"root_1 -&gt; node_1\"},{\"id\":\"edge:root_1:node_2:ckqjews4h00053h6uqvelaef4\",\"sourceId\":\"root_1\",\"targetId\":\"node_2\",\"label\":\"root_1 -&gt; node_2 #1\"},{\"id\":\"edge:node_0:node_3:ckqjews4h00063h6uqaleq6oj\",\"sourceId\":\"node_0\",\"targetId\":\"node_3\",\"label\":\"node_0 -&gt; node_3\"},{\"id\":\"edge:node_2:node_4:ckqjews4h00073h6ucji2k9xh\",\"sourceId\":\"node_2\",\"targetId\":\"node_4\",\"label\":\"node_2 -&gt; node_4\"},{\"id\":\"edge:node_4:node_6:ckqjews4h00083h6um1wdwpow\",\"sourceId\":\"node_4\",\"targetId\":\"node_6\",\"label\":\"node_4 -&gt; node_6\"},{\"id\":\"edge:node_3:node_7:ckqjews4h00093h6u17u5cpkq\",\"sourceId\":\"node_3\",\"targetId\":\"node_7\",\"label\":\"node_3 -&gt; node_7\"},{\"id\":\"edge:root_1:node_2:ckqjews4h000a3h6uo6try7jy\",\"sourceId\":\"root_1\",\"targetId\":\"node_2\",\"label\":\"root_1 -&gt; node_2 #2\"},{\"id\":\"edge:node_4:node_5:ckqjews4h000b3h6u6cw54rbt\",\"sourceId\":\"node_4\",\"targetId\":\"node_5\",\"label\":\"node_4 -&gt; node_5\"},{\"id\":\"edge:node_5:node_8:ckqjews4h000c3h6ul9ryvkah\",\"sourceId\":\"node_5\",\"targetId\":\"node_8\",\"label\":\"node_5 -&gt; node_8\"},{\"id\":\"edge:node_8:node_4:ckqjews4h000d3h6u3aj2ijeb\",\"sourceId\":\"node_8\",\"targetId\":\"node_4\",\"label\":\"node_8 -&gt; node_4\"},{\"id\":\"edge:node_7:node_4:ckqjews4h000d3h6u3aj2ijeb\",\"sourceId\":\"node_7\",\"targetId\":\"node_4\",\"label\":\"node_7 -&gt; node_4\"}]",
+        "hiddenEdgeIds": "[]",
+        "hiddenNodeIds": "[]",
+        "homeNodeId": "",
+        "nodes": "[{\"id\":\"outer_group\",\"isGroup\":true,\"viewData\":{\"groupCount\":1,\"primaryLabel\":\"Outer group\"}},{\"id\":\"inner_group\",\"isGroup\":true,\"groupIds\":[\"outer_group\"],\"viewData\":{\"groupCount\":3,\"primaryLabel\":\"Inner group\"}},{\"id\":\"node_0\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #0\",\"userName\":\"Abel Tuter\"}},{\"id\":\"node_1\",\"viewData\":{\"primaryLabel\":\"Node #1\",\"image\":\"https://picsum.photos/50\"}},{\"id\":\"node_2\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #2\",\"status\":\"positive\"}},{\"id\":\"node_3\",\"viewData\":{\"primaryLabel\":\"Node #3\",\"image\":\"https://picsum.photos/50\"}},{\"id\":\"node_4\",\"viewData\":{\"primaryLabel\":\"Node #4\"}},{\"id\":\"node_5\",\"viewData\":{\"primaryLabel\":\"Node #5\"}},{\"id\":\"node_6\",\"viewData\":{\"primaryLabel\":\"Node #6\",\"status\":\"error\",\"icon\":\"bug-outline\"}},{\"id\":\"node_7\",\"groupIds\":[\"inner_group\"],\"viewData\":{\"primaryLabel\":\"Node #7\"}},{\"id\":\"node_8\",\"viewData\":{\"primaryLabel\":\"Node #8\"}},{\"id\":\"node_9\",\"isInactive\":true,\"viewData\":{\"primaryLabel\":\"Node #9\",\"secondaryLabel\":\"(inactive)\"}},{\"id\":\"root_1\",\"viewData\":{\"primaryLabel\":\"Root node\"}}]",
+        "showError": false
+    },
+    "sysId": "f0f10abef1ff22108bb2efdbde054c37",
+    "views": "",
+    "activityLogs": "",
+    "extraParams": "",
+    "screen": "",
+    "fields": "",
+    "userPrefs": "",
+    "selectedTabIndex": "",
+    "sysparmView": ""
 }</macroponent_config>
         <screen display_value="NeedIt Admin home">7e8055b283b67a500e72b1b6feaad312</screen>
         <sys_class_name>sys_uib_screen_test_values</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-02-05 04:49:00</sys_created_on>
         <sys_id>be80d5b283b67a500e72b1b6feaad322</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_uib_screen_test_values_be80d5b283b67a500e72b1b6feaad322</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-02-05 08:10:44</sys_updated_on>
+        <sys_updated_on>2026-02-11 03:29:59</sys_updated_on>
     </sys_uib_screen_test_values>
 </record_update>
